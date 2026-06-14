@@ -73,6 +73,14 @@ REACT_APP_BASE_URL=http://localhost:5000
 | GET | `/:shortCode` | — (redirect) |
 
 ## Screenshot
+![image alt](https://github.com/Kashvini965/URL-SHORTENER-Katomaran-/blob/main/Screenshot%202026-06-14%20123605.png?raw=true)
 
+![image alt](https://github.com/Kashvini965/URL-SHORTENER-Katomaran-/blob/main/Screenshot%202026-06-14%20123657.png?raw=true)
+
+![image alt](https://github.com/Kashvini965/URL-SHORTENER-Katomaran-/blob/main/Screenshot%202026-06-14%20123715.png?raw=true)
+
+![image alt](https://github.com/Kashvini965/URL-SHORTENER-Katomaran-/blob/main/Screenshot%202026-06-14%20123737.png?raw=true)
 
 ## loom link: https://www.loom.com/share/a723ea4db61e4e67b72ad698b4529bbb
+
+*This project is a part of a hackathon run by https://katomaran.com*

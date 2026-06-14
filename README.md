@@ -71,3 +71,5 @@ REACT_APP_BASE_URL=http://localhost:5000
 | GET | `/api/urls/:id` | JWT (analytics) |
 | GET | `/api/public/:shortCode` | — |
 | GET | `/:shortCode` | — (redirect) |
+
+## loom link: https://www.loom.com/share/a723ea4db61e4e67b72ad698b4529bbb
